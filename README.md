@@ -1,4 +1,4 @@
-# AI Pathfinding Visualizer
+# AI Search Algorithms Simulator
 
 An interactive Python project that visualizes classic AI search algorithms on a grid using **Pygame**.
 
